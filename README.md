@@ -1,7 +1,8 @@
-### Hi there 👋:hugs: , Welcome to Samarth's Github Profile
+<img src='https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png' alt='Welcome to My Github Profile'/>
 
 #### [Samarth's Website](https://samarth-portfolio-website.000webhostapp.com)
 
+### Hi there 👋:hugs:
 I'm Samarth from Bengaluru, India. My Current Ambition is To Solve Problems that help to explore this beautiful industry. You can Contact me here: https://samarth-portfolio-website.000webhostapp.com.
 
 [![Samarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamarthHChinivar)](https://github.com/SamarthHChinivar/github-readme-stats)
