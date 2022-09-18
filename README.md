@@ -3,7 +3,7 @@
 # **[Samarth's Website](https://samarth-portfolio-website.000webhostapp.com) :globe_with_meridians:**
 
 ## **Hi There 👋:hugs:**
-I'm Samarth from Bengaluru, India. My current ambition is to solve problems that help to explore this evolving technologies. You can contact me here: https://samarth-portfolio-website.000webhostapp.com.
+I'm Samarth from Bengaluru, India. My current ambition is to solve various real-life problems and to explore these ever evolving technologies. You can contact me here: https://samarth-portfolio-website.000webhostapp.com.
 
 #### **Connect with Me:**
 
