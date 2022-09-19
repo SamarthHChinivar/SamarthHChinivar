@@ -22,6 +22,8 @@ I'm Samarth from Bengaluru, India. My current ambition is to solve various real-
 
 #### Recent Activity :zap: :
 <!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
+
+<!--RECENT_ACTIVITY:last_update-->
+
 #### **Profile Views Count:**
 ![Profile Views](https://komarev.com/ghpvc/?username=SamarthHChinivar&color=blueviolet)
