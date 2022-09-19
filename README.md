@@ -21,7 +21,7 @@ I'm Samarth from Bengaluru, India. My current ambition is to solve various real-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SamarthHChinivar&show_icons=true&theme=tokyonight)
 
 #### Recent Activity :zap: :
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 #### **Profile Views Count:**
 ![Profile Views](https://komarev.com/ghpvc/?username=SamarthHChinivar&color=blueviolet)
