@@ -15,7 +15,7 @@ I am Samarth H Chinivar from Bengaluru, India . My Current Ambition is to solve 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS" height="40"/> <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" alt="Github" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt='git' height="40"/>   <img src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" alt="terminal" height="40"/> <img src='https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png' alt='windows' height='40'/> <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png' alt='linux' height='40'/>
 
 #### **Language Stats:**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthHChinivar&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthHChinivar&layout=compact&theme=tokyonight)
 
 #### **Github Stats:**
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SamarthHChinivar&show_icons=true&theme=tokyonight)
