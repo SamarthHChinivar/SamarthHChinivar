@@ -18,7 +18,7 @@ I am Samarth H Chinivar from Bengaluru, India . My Current Ambition is to solve 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthHChinivar&layout=compact&theme=tokyonight)
 
 #### **Github Stats:**
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SamarthHChinivar&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SamarthHChinivar&layout=compact&show_icons=true&theme=tokyonight)
 
 #### **Profile Views Count:**
 ![Profile Views](https://komarev.com/ghpvc/?username=SamarthHChinivar&color=blueviolet)
