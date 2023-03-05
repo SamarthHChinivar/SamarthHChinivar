@@ -3,7 +3,8 @@
 # **[Samarth's Website](http://samarth-portfolio-website.000webhostapp.com) :globe_with_meridians:**
 
 ## **Hi There 👋:hugs:**
-I am Samarth H Chinivar from Bengaluru, India . My Current Ambition is to solve various real-life problems and to explore these ever-evolving technologies. I am aiming to get an opportunity to work in an organisation where I can make the best use of my potential and contribute to the organization's growth. You can contact me here: http://samarth-portfolio-website.000webhostapp.com.
+Hello, my name is Samarth H Chinivar and I am based in Bengaluru, India. My current ambition is to solve various real-life problems using ever-evolving technologies. I am highly motivated to find an opportunity to work in an organization where I can contribute my skills and make the best use of my potential to contribute to the organization's growth. 
+You can contact me here: http://samarth-portfolio-website.000webhostapp.com.
 
 #### **Connect with Me:**
 
