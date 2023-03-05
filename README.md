@@ -22,5 +22,7 @@ You can contact me here: http://samarth-portfolio-website.000webhostapp.com.
 #### **Github Stats:**
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SamarthHChinivar&layout=compact&show_icons=true&theme=tokyonight)
 
+<!--START_SECTION:activity-->
+
 #### **Profile Views Count:**
 ![Profile Views](https://komarev.com/ghpvc/?username=SamarthHChinivar&color=blueviolet)
