@@ -17,7 +17,7 @@ You can contact me here: http://samarth-portfolio-website.000webhostapp.com.
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS" height="40"/> <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" alt="Github" height="40"/> <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png' alt='Unity3D' height='40'/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt='git' height="40"/>   <img src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" alt="terminal" height="40"/> <img src="https://user-images.githubusercontent.com/104615876/192595197-0fc22e8a-f120-440a-bbcb-9c9eda5d6bf6.png" alt="jupyter" height="40"/>
 
 #### **Language Stats:**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthHChinivar&langs_count=10&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthHChinivar&langs_count=12&layout=compact&theme=tokyonight)
 
 #### **Github Stats:**
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SamarthHChinivar&layout=compact&show_icons=true&theme=tokyonight)
