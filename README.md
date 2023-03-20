@@ -25,7 +25,7 @@ You can contact me here: http://samarth-portfolio-website.000webhostapp.com.
 #### **Listen with Me:**
 [![Spotify](https://spotify-novatorem-gamma.vercel.app/api/spotify/?background_color=000000&border_color=ffffb3)](https://open.spotify.com/user/313tyn5czgxn5jksws6pusqjf5si)
 
-#### **Programmer Quotes:**
+#### **Quotes:**
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 #### **Profile Views Count:**
