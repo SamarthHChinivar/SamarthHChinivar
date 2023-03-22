@@ -4,7 +4,9 @@
 
 ## **Hi There 👋:hugs:**
 Hello, my name is Samarth H Chinivar and I am based in Bengaluru, India. My current ambition is to solve various real-life problems using ever-evolving technologies. I am highly motivated to find an opportunity to work in an organization where I can contribute my skills and make the best use of my potential to contribute to the organization's growth. 
-You can contact me here: http://samarth-portfolio-website.000webhostapp.com.
+
+- You can contact me here: http://samarth-portfolio-website.000webhostapp.com.
+- My GitHub Contributions in 2022: https://skyline.github.com/samarthhchinivar/2022
 
 #### **Connect with Me:**
 
