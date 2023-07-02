@@ -24,8 +24,8 @@ Hello, I am Samarth H. Chinivar, a Software Developer based in Bengaluru, India.
 #### **Github Stats:**
 ![GitHub stats](https://github-readme-stats-hazel-pi-31.vercel.app/api?username=SamarthHChinivar&layout=compact&show_icons=true&theme=tokyonight)
 
-#### **Listen with Me:**
-[![Spotify](https://spotify-novatorem-gamma.vercel.app/api/spotify/?background_color=000000&border_color=ffffb3)](https://open.spotify.com/user/313tyn5czgxn5jksws6pusqjf5si)
+<!---#### **Listen with Me:**
+[![Spotify](https://spotify-novatorem-gamma.vercel.app/api/spotify/?background_color=000000&border_color=ffffb3)](https://open.spotify.com/user/313tyn5czgxn5jksws6pusqjf5si) -->
 
 #### **Quote:**
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
