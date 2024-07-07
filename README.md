@@ -1,12 +1,11 @@
 <img src='https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png' alt='Welcome to My Github Profile'/>
 
-# **[Samarth's Website](http://samarth-portfolio-website.000webhostapp.com) :globe_with_meridians:**
+# **[Samarth's Website](https://samarth-h-chinivar.vercel.app) :globe_with_meridians:**
 
 ## **Hi There 👋**
 <p>Hello, I am <strong>Samarth H. Chinivar</strong>, a <strong>Software Developer</strong> based in Bengaluru, India. As a <strong>fresh graduate</strong> with a strong foundation in computer science, I possess excellent problem-solving and troubleshooting skills. My expertise lies in web technologies, including HTML, and CSS frameworks like Tailwind CSS and Bootstrap, as well as modern frameworks like <strong>React Native</strong>, <strong>React.js</strong> and <strong>Next.js</strong>. I have a knack for quickly adapting to new technologies and have practical experience in <strong>TypeScript</strong>, <strong>JavaScript</strong>, <strong>Java</strong> <strong>C</strong>, and <strong>Python</strong> programming languages.</p>
 
-- You can contact me here: http://samarth-portfolio-website.000webhostapp.com/#contact .
-- My GitHub Contributions in 2022: https://skyline.github.com/samarthhchinivar/2022 .
+You can contact me here: https://samarth-h-chinivar.vercel.app/#contact .
 
 #### **Connect with Me:**
 
